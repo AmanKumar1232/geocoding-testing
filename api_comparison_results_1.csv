@@ -1,0 +1,336 @@
+input_address,truth_state,truth_country,truth_postcode,geoapify_state,geoapify_country,geoapify_postcode,opencage_state,opencage_country,opencage_postcode
+"43 mingay raod , Thetford, norfolk , IP24 3JJ, United Kingdom",,GB,IP24 3JJ,ENG,gb,IP24 3JJ,ENG,gb,IP24 3JJ
+"45B Harty Place, Dublin, Dublin, D08P5K7, Ireland",D,IE,D08P5K7,L,ie,D08 V972,,ie,
+"Greycottage, Dobbin road, Trevone, Padstow, PL288QW, United Kingdom",,GB,PL288QW,ENG,gb,PL28 8QW,ENG,gb,PL28 8QW
+"7 sevenoak grove , Liverpool, L351QL, United Kingdom",,GB,L351QL,ENG,gb,L35 1QL,ENG,gb,L35 1QL
+"23 malachi gait, Edinburgh, Kirkliston, EH29 9FR, United Kingdom",,GB,EH29 9FR,SCT,gb,EH29 9FR,SCT,gb,EH29 9FR
+"Rua Vale dos Choupos, N.8, 2925-303 Brejos de Azeitao, Setúbal, Portugal",PT-15,PT,2925-303,,pt,2925-555,,pt,
+"26 Craigmillar Park , Edinburgh, EH16 5PS, United Kingdom",,GB,EH16 5PS,SCT,gb,EH16 5PS,SCT,gb,EH16 5PS
+"13 Springfield Drive, Celbridge, Kildare, Ireland",KE,IE,nan,KE,ie,W23 HFX0,,ie,
+"Rua das escadinhas nr4,  Bairro Rabão, 2560-585 Torres vedras, Lisbon, Portugal",PT-11,PT,2560-585,LI,pt,2560-585,,pt,2560-585
+"277 the Broadway (flat 2), LONDON, SW19 1SD, United Kingdom",,GB,SW19 1SD,ENG,gb,SW19 1SD,ENG,gb,SW19 1SD
+"77 Blue Pool Rd, Flat 1, 6F Greenside Villa Block D, Happy Valley, Hong Kong Island Hong Kong SAR",HK,HK,nan,,cn,,TX,us,
+"243 Rectory Road, Grays, Essex, RM175SW, United Kingdom",,GB,RM175SW,ENG,gb,RM17 5SW,ENG,gb,RM17 5SW
+"1/2 39 Miller Street, Clydebank, Glasgiw, G81 1UR, United Kingdom",,GB,G81 1UR,SCT,gb,G81 1UR,SCT,gb,G81 1UR
+"89 Murray Raod, Ealing, W54DB, United Kingdom",,GB,W54DB,ENG,gb,W5 4DB,ENG,gb,W5 4DB
+"305 Fusion Court, 51 Sclater Street, London, E16FU, United Kingdom",,GB,E16FU,ENG,gb,E1 6FU,ENG,gb,E1 6FU
+"Brooklands, Penygroes Road, Caerbryn, Carmarthenshire, SA18 3EQ, United Kingdom",,GB,SA18 3EQ,WLS,gb,SA18 3EQ,WLS,gb,SA18 3EQ
+"Maschlinastrasse 8, 9495 Triesen, Liechtenstein",,LI,9495,,li,9495,,li,9495
+"Kalevala 7, 10914 tallinn, Estonia",,EE,10914,,ee,10914,,ee,10914
+"37 Lavender Close, Carshalton, SM53EH, United Kingdom",,GB,SM53EH,ENG,gb,SM5 3EH,ENG,gb,SM5 3EH
+"89 Miller Meadow, Leegomery, Telford, TF1 6NR, United Kingdom",,GB,TF1 6NR,ENG,gb,TF1 6NR,ENG,gb,TF1 6NR
+"Dekel 433, 0, 1794000 Adi, Israel",,IL,1794000,HZ,il,,,il,
+"Al Karamah st villa 18 behind deema clinic, Abu Dhabi AZ, United Arab Emirates",AZ,AE,nan,AZ,ae,,,,
+"9 Melbury Road , Rose House , London , W148LL, United Kingdom",,GB,W148LL,ENG,gb,W14 8LL,ENG,gb,W14 8LL
+"Schwertgasse 14, 8750 Glarus, Switzerland",,CH,8750,GL,ch,8750,GL,ch,8750
+"6 Cornforth lane, Flat 14 Mellanby house, London, NW7 1SU, United Kingdom",,GB,NW7 1SU,ENG,gb,NW7 1SU,ENG,gb,NW7 1SU
+"38 rue du Cardinal Lemoine, 75005 Paris, France",,FR,75005,IDF,fr,75005,IDF,fr,75005
+"Rütistrasse 43, 8134 Adliswil, Switzerland",,CH,8134,,ch,8134,ZH,ch,8134
+"Via Ignazio Scimonelli 230A, Entrata indipendente, piano terra, 00173 Roma RM, Italy",RM,IT,00173,LAZ,it,00173,,it,00173
+"Exor Investments, 28 Headfort Place, London, SW1X 7DH, United Kingdom",,GB,SW1X 7DH,ENG,gb,SW1X 7DH,ENG,gb,SW1X 7DH
+"16 de Septiembre 1802, San Jeronimo Chicahualco, 52170 Metepec MEX, Mexico",MEX,MX,52170,MEX,mx,52170,MEX,mx,52170
+"8 Earls well waterfall, Cork, Cork, T12N1WH, Ireland",CO,IE,T12N1WH,,ie,T12N1WH,M,ie,
+"flat 1G, tower A, hollywood terrace,, 268 Queens rd. central, Sheung Wan, Hong Kong Island Hong Kong SAR",HK,HK,nan,,hk,,,,
+"Philips de Tweedestraat, 9, 5216 AG 's-Hertogenbosch, Netherlands",,NL,5216 AG,NB,nl,5216 AG,NB,nl,5216 AG
+"26 Avenue Maréchal Juin, B306, 06400 Cannes, France",,FR,06400,PR,fr,06400,PAC,fr,06400
+"Frond K villa 11, Palm jumeirah DU, United Arab Emirates",DU,AE,nan,,,,DU,ae,
+"76 Westbourne Apartment , 5 central Avenue, London, SW6 2GP, United Kingdom",,GB,SW6 2GP,ENG,gb,SW6 2GP,ENG,gb,SW6 2GP
+"7 nahmani st, apt 12, 6579411 tel aviv, Israel",,IL,6579411,,il,6803931,,il,
+"#203 Glory Yamate 14-5 Yamate-cho, Sasebo-shi, Nagasaki, Japan, 〒857-0022",JP-42,JP,857-0022,NS,jp,,,jp,
+"9 Marks Close , Derby , DE23 1HB, United Kingdom",,GB,DE23 1HB,ENG,gb,DE23 1HB,ENG,gb,DE23 1HB
+"36 Chesham Place, London, SW1X8HB, United Kingdom",,GB,SW1X8HB,ENG,gb,SW1X 8HB,ENG,gb,SW1X 8HB
+"103 Prince Charles Crescent, #05-09, Singapore 159018",,SG,159018,,sg,159020,,sg,153150
+"9 Corfe Place, Maidenhead, SL6 6TL, United Kingdom",,GB,SL6 6TL,ENG,gb,SL6 6TL,ENG,gb,SL6 6TL
+"23 Marina Way, #17-19 Marina One Residences, Singapore 018979",,SG,018979,,sg,018935,,sg,
+"351F Caledonian Road, Flat 16 Jenson Heights, LONDON, N1 1XP, United Kingdom",,GB,N1 1XP,ENG,gb,N1 1XP,ENG,gb,N1 1XP
+"Rabj street, West Yas Residence, Villa 2, Abu Dhabi AZ, United Arab Emirates",AZ,AE,nan,AZ,ae,,,,
+"Vieira, 20 rue du centre, 92200 NEUILLY SUR SEINE, France",,FR,92200,IDF,fr,92200,IDF,fr,92200
+"Sejerskovvej 21, 1.th., 5260 Odense S, Denmark",,DK,5260,,dk,5260,,dk,5260
+"Zone 31 street 863, House number 8, Doha, Qatar",,QA,nan,DA,qa,,,qa,
+"Villa 49, Street 13, Mira 4, Dubai DU, United Arab Emirates",DU,AE,nan,DU,ae,38466 84643,,ae,
+"1104, The Residences, Tower 3, Downtown, Dubai DU, United Arab Emirates",DU,AE,nan,DU,ae,26074 87332,DU,ae,
+"c/o Tanari, 46 route de Valavran, 1293 Bellevue, Switzerland",,CH,1293,,ch,1293,GE,ch,1293
+"Weststrasse 117, 8003 Zürich, Switzerland",,CH,8003,,ch,8003,ZH,ch,8003
+"79 Runcorn Road, Barnton, Northwich, CW84EU, United Kingdom",,GB,CW84EU,ENG,gb,CW8 4EU,ENG,gb,CW8 4EU
+"CALVAIRE CHAPELLE, 97122 BAIE-MAHAULT, Guadeloupe",,GP,97122,GP,fr,97122,GP,fr,97122
+"237 Tembeling Road, 03-06, Singapore 423721",,SG,423721,,sg,423721,,sg,427452
+"Rua Vale dos Choupos, N.8, 2925-303 Brejos de Azeitao, Setúbal, Portugal",PT-15,PT,2925-303,,pt,2925-555,,pt,
+"Rua da Jouriça 14 1º-Direito, Apt, 2500-432 Caldas da Rainha, Leiria, Portugal",PT-10,PT,2500-432,,pt,2500-816,,pt,
+"Route des Esserts 12, 12, 1854 Leysin, Switzerland",,CH,1854,VD,ch,1854,VD,ch,1854
+"Rua Vale dos Choupos, N.8, 2925-303 Brejos de Azeitao, Setúbal, Portugal",PT-15,PT,2925-303,,pt,2925-555,,pt,
+"Lamar bausher, Apartment 502 floor 5, 133, Muscat, Oman",,OM,133,,om,,,om,
+"C.4.08 All Saints Green, 8 Winalls Yard, Norwich, NR1 3GZ, United Kingdom",,GB,NR1 3GZ,ENG,gb,NR1 3GZ,ENG,gb,NR1 3GZ
+"42 Amberley Drive, East Sussex, Hove, BN3 8JP, United Kingdom",,GB,BN3 8JP,ENG,gb,BN3 8JP,ENG,gb,BN3 8JP
+"2121 W 237th Street, 90501 Torrance, Afghanistan",,AF,90501,,,,,af,
+"15 Pebblewood Street, McKinley Village, 1630 Taguig, 00, Philippines",PH-00,PH,1630,,ph,1634,,ph,
+"7 rue de l'aviateur martel, Apt 21, 77600 Bussy Saint Georges, France",,FR,77600,IDF,fr,77600,IDF,fr,77600
+"2817 N Inyo St, 93305 Bakersfield, Afghanistan",,AF,93305,,,,,af,
+"3509 Burr dr, Edinburg Texas, Central African Republic",,CF,78542,,,,,cf,
+"645 Trails End Circle, 31005 Bonaire, Georgia",,GE,31005,GA,us,31005,GA,us,
+"39 Owen road, London, UB4 9LA, United Kingdom",,GB,UB4 9LA,ENG,gb,UB4 9LA,ENG,gb,UB4 9LA
+"Simtat galili, 8, 1200000 Rosh pinna, Israel",,IL,1200000,,il,,,il,
+"1 place Christophe colomb résidence l’arbre blanc, App 704, 34000 Montpellier, France",,FR,34000,LP,fr,34000,OCC,fr,09500
+"14 Walter Dyer Drive, Fern Hill Gardens, Faringdon, SN7 7NH, United Kingdom",,GB,SN7 7NH,ENG,gb,SN7 7NH,ENG,gb,SN7 7NH
+"Solventilsgatan 11, 602, 417 23 Gothenburg, Sweden",,SE,417 23,,se,417 24,,se,417 06
+"17 Brookfield Avenue, Liverpool, L22 3YE, United Kingdom",,GB,L22 3YE,ENG,gb,L22 3YE,ENG,gb,L22 3YE
+"Rua Ibipitanga, 1055, Casa, 07085-260 Guarulhos SP, Brazil",SP,BR,07085-260,,br,07085-260,SP,br,07085-340
+"Brueckenaeckerweg 18, 76229 Karlsruhe, Germany",,DE,76229,BW,de,76229,BW,de,76229
+"BLK3 LOT3 MOLAVE DRIVE2 BRGY. NAGKAISANG NAYON, 1125 QUEZON CITY, 00, Philippines",PH-00,PH,1125,,ph,2209,,ph,1125
+"Unit 902 wack wack apartments wack wack road, Wack wack apartments, 1555 Mandaluyong city, 00, Philippines",PH-00,PH,1555,,ph,1555,,ph,
+"42 Warkton Lane, Kettering, NN15 5AA, United Kingdom",ENG,GB,NN15 5AA,ENG,gb,NN15 5AA,ENG,gb,NN15 5AA
+"801029145060, 23 jalan kristal 7/73, seksyen 7, Seksyen 23, Shah Alam, 40000 Shah Alam, Selangor, Malaysia",SGR,MY,40000,SGR,my,40000,SGR,my,41150
+"Rua da Jouriça 14 1º-Direito, Apt, 2500-432 Caldas da Rainha, Leiria, Portugal",PT-10,PT,2500-432,,pt,2500-816,,pt,
+"82-3A/4 Tariq Road, Lahore Cantt, Upper portion, Lahore 54000, Pakistan",,PK,54000,PB,pk,54000,PB,pk,
+"Strömsbruksvägen 9 A, 1001, 82995 Harmånger, Sweden",,SE,82995,,se,829 95,,se,829 95
+"9 rue de salbris, 41300 Pierrefitte-sur-Sauldre, France",,FR,41300,CVL,fr,41300,CVL,fr,41300
+"32 Childwall Park Avenue, Liverpool, L16 0JG, United Kingdom",,GB,L16 0JG,ENG,gb,L16 0JG,ENG,gb,L16 0JG
+"-, 5, Persiaran Sungai Pari Timur 8, Taman Mas, 30200, 30200 Ipoh, Perak, Perak, Malaysia",PRK,MY,30200,PRK,my,30200,,my,30200
+"home, dubai , al wasl road , villa 35, home 35, Dubai DU, United Arab Emirates",DU,AE,77201,,ae,22620 86711,DU,ae,
+"Almog 8, 3901129 Tirat carmel, Israel",,IL,3901129,,il,3955022,,il,
+"29 Ellercroft Road, Bradford, BD7 2EF, United Kingdom",,GB,BD7 2EF,ENG,gb,BD7 2EF,ENG,gb,BD7 2EF
+"5 Kelbrook Close, KELLBROOK CLOSE, ST. HELENS, WA9 3WR, United Kingdom",,GB,WA9 3WR,ENG,gb,WA9 3WR,ENG,gb,WA9 3WR
+"#203 Glory Yamate 14-5 Yamate-cho, Sasebo-shi, Nagasaki, Japan, 〒857-0022",JP-42,JP,857-0022,NS,jp,,,jp,
+"1008 summer placItoro, 30071 Norcross, Afghanistan",,AF,30071,,,,,af,
+"6535 Wesley Lane, 21075 Elkridge, Afghanistan",,AF,21075,,,,,af,
+"114 Kerk street, Ermelo, Mpumalanga, 2350, South Africa",MP,ZA,2350,MP,za,2350,MP,za,2350
+"47B Felday Road, London, SE13 7HQ, United Kingdom",,GB,SE13 7HQ,ENG,gb,SE13 7HQ,ENG,gb,SE13 7HQ
+"5A Belgrave Crescent, Harrogate, HG2 8HZ, United Kingdom",ENG,GB,HG2 8HZ,ENG,gb,HG2 8HZ,ENG,gb,HG2 8HZ
+"Marriott, 300 s mulberry street, 28021 Cherryville, Afghanistan",,AF,28021,,,,,af,
+"Sejerskovvej 21, 1.th., 5260 Odense S, Denmark",,DK,5260,,dk,5260,,dk,5260
+"c/o Tanari, 46 route de Valavran, 1293 Bellevue, Switzerland",,CH,1293,,ch,1293,GE,ch,1293
+"268 Queens Rd. Central, Flat 1G, Tower A, Hollwood Terrace,, Sheung Wan, Hong Kong Island Hong Kong SAR",HK,HK,12345,,hk,,,,
+"Selsea Place, 31 essence house, London, N168BE, United Kingdom",,GB,N168BE,ENG,gb,N16 8BE,ENG,gb,N16 8BE
+"Ceresvej 5b, 103, 3900 Nuuk, Greenland",,GL,3900,,gl,3900,,gl,3900
+"Dr. Ingridsvej 14, 201, 3900 Nuuk, Greenland",,GL,3900,,gl,3900,,gl,3900
+"7 rue de l'aviateur martel, Apt 21, 77600 Bussy Saint Georges, France",,FR,77600,IDF,fr,77600,IDF,fr,77600
+"Rua Vale dos Choupos, N.8, 2925-303 Brejos de Azeitao, Setúbal, Portugal",PT-15,PT,2925-303,,pt,2925-555,,pt,
+"15 Pebblewood Street, McKinley Village, 1630 Taguig, 00, Philippines",PH-00,PH,1630,,ph,1634,,ph,
+"1 place Christophe colomb résidence l’arbre blanc, App 704, 34000 Montpellier, France",,FR,34000,LP,fr,34000,OCC,fr,09500
+"Sleipnergatan 64, lgh 1002, Co Georgis Imerlisvili, 19554 Märsta, Sweden",,SE,19554,,se,195 54,,se,
+"Simtat galili, 8, 1200000 Rosh pinna, Israel",,IL,1200000,,il,,,il,
+"Luzernstrasse 36b, 6208 Oberkirch, Switzerland",,CH,6208,,ch,6208,LU,ch,6208
+"6285 Al Qama Street, ishbiliah, Riyadh 11564, Saudi Arabia",,SA,11564,,sa,13316,,sa,
+"Carl bertheussens veg 29a, 9020 Tromsø, Norway",,NO,9020,,no,9020,,no,9020
+"Brueckenaeckerweg 18, 76229 Karlsruhe, Germany",,DE,76229,BW,de,76229,BW,de,76229
+"Unit 902 wack wack apartments wack wack road, Wack wack apartments, 1555 Mandaluyong city, 00, Philippines",PH-00,PH,1555,,ph,1555,,ph,
+"Analipseos, 69, 54644 Thessaloniki, Greece",,GR,54644,,gr,546 44,,gr,
+"-, 5, Persiaran Sungai Pari Timur 8, Taman Mas, 30200, 30200 Ipoh, Perak, Perak, Malaysia",PRK,MY,30200,PRK,my,30200,,my,30200
+"Almog 8, 3901129 Tirat carmel, Israel",,IL,3901129,,il,3955022,,il,
+"Rua da Jouriça 14 1º-Direito, Apt, 2500-432 Caldas da Rainha, Leiria, Portugal",PT-10,PT,2500-432,,pt,2500-816,,pt,
+"Strömsbruksvägen 9 A, 1001, 82995 Harmånger, Sweden",,SE,82995,,se,829 95,,se,829 95
+"32 Childwall Park Avenue, Liverpool, L16 0JG, United Kingdom",,GB,L16 0JG,ENG,gb,L16 0JG,ENG,gb,L16 0JG
+"Cäcilienstrasse 17, 3007 Bern, Switzerland",,CH,3007,BE,ch,3007,BE,ch,3007
+"Rue Saint-Georges, 8, 1390 Grez-Doiceau, Belgium",,BE,1390,,be,1390,WBR,be,1390
+"9 Leclos de l'oliveraie, 83340 le Thoronet, France",,FR,83340,PR,fr,,PAC,fr,83340
+"Rua das paponas, 34, 2005 393 Vale de santarém, Santarém, Portugal",PT-14,PT,2005 393,,pt,,,pt,
+"57 Sandlewood Road, Feltham, TW137AZ, United Kingdom",,GB,TW137AZ,ENG,gb,TW13 7AZ,ENG,gb,TW13 7AZ
+"20 Northmead road, Slough, SL2 1TR, United Kingdom",,GB,SL2 1TR,ENG,gb,SL2 1TR,ENG,gb,SL2 1TR
+"5 Kelbrook Close, KELLBROOK CLOSE, ST. HELENS, WA9 3WR, United Kingdom",,GB,WA9 3WR,ENG,gb,WA9 3WR,ENG,gb,WA9 3WR
+"KRAUSGASSE 4, 5, 8020 Graz, Austria",,AT,8020,,at,8020,6,at,8020
+"4 Berkeley lodge, 2 chase ridings you, Enfield Chase, EN2 7DQ, United Kingdom",,GB,EN2 7DQ,ENG,gb,EN2 7DQ,ENG,gb,EN2 7DQ
+"Shderot Chen 36, 5, 7646922 Rehovot, Israel",,IL,7646922,HM,il,,,il,
+"Hahagana 49, 6, 4635610 Hertzliya, Israel",,IL,4635610,TA,il,5225517,,il,
+"71 Crown street, Rochdale, OL16 5LH, United Kingdom",,GB,OL16 5LH,ENG,gb,OL16 5LH,ENG,gb,OL16 5LH
+"25 wormwood street, Flat B, London, EC2M 1RP, United Kingdom",,GB,EC2M 1RP,ENG,gb,EC2M 1RP,ENG,gb,EC2M 1RP
+"12 Shainfain st, Apt 2 , Floor G, 4465217 Kfar Saba, Israel",,IL,4465217,JM,il,9419008,,il,
+"Mitterhofergasse 2, 2/1/7, 1210 Vienna, Austria",,AT,1210,,at,1210,3,at,1210
+"126 Cedar Woods Trl, 30114 Canton, Georgia",,GE,30114,GA,us,30114,GA,us,
+"Santiago Ixcuintla, 101, 63737 San Vicente, Nayarit NAY, Mexico",NAY,MX,63737,NAY,mx,63737,,mx,63737
+"Zilverschoonstraat, 19B, 3053HX Rotterdam, Netherlands",,NL,3053HX,ZH,nl,3053 HX,ZH,nl,3053 HX
+"Via Paolo Borsellino 123, 80025 Casandrino NA, Italy",,IT,80025,CAM,it,80025,CAM,it,80125
+"16 purbeck road Chatham, Kent, ME4 6ED, United Kingdom",,GB,ME4 6ED,ENG,gb,ME4 6ED,ENG,gb,ME4 6ED
+"duncombe close, 20, essex, CM8 1GR, United Kingdom",,GB,CM8 1GR,ENG,gb,CM8 1GR,ENG,gb,CM8 1GR
+"Glebe Cottage, Church Street, Tarvin, CH3 8EB, United Kingdom",,GB,CH3 8EB,ENG,gb,CH3 8EB,ENG,gb,CH3 8EB
+"74 Verde Grove, Singapore 688606",,SG,688606,,sg,680766,,sg,680766
+"Marriott, 300 s mulberry street, 28021 Cherryville, Afghanistan",,AF,28021,,,,,af,
+"6831 Neptune place, 92037 La Jolla, Afghanistan",,AF,92037,,,,,af,
+"5319 Surfrider Way, 93035 Oxnard, Afghanistan",,AF,93035,,,,,af,
+"Ceresvej 5b, 103, 3900 Nuuk, Greenland",,GL,3900,,gl,3900,,gl,3900
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"7470, 16th street Abdullah Fuad, 54, Dammam 32236, Saudi Arabia",,SA,32236,,sa,32242,,sa,
+"Roodborstlaan 30, 2623HB Delft, Netherlands",,NL,2623HB,ZH,nl,2623 HB,ZH,nl,2623 HB
+"rimon 230, 0079315 Telamim, Israel",,IL,0079315,,il,,,il,
+"4 longman court, Stationers place, Hemel Hempstead, HP3 9RS, United Kingdom",,GB,HP3 9RS,ENG,gb,HP3 9RS,ENG,gb,HP3 9RS
+"Ma'apile egoz 86, Entrance A, floor 4, apartment 7, 6743044 Tel Aviv, Israel",,IL,6743044,,il,6767589,,il,
+"Hashomron 11, 609200 kadima, Israel",,IL,609200,,il,4282300,,il,
+"9 rue Pierre Barnoud, 69170 Tarare, France",,FR,69170,AR,fr,69170,ARA,fr,69170
+"Sonnenweg 3, 8807 Freienbach, Switzerland",,CH,8807,SZ,ch,8808,SZ,ch,8808
+"15 Rue du Berceau, 13005 Marseille, France",,FR,13005,PAC,fr,13005,PAC,fr,13005
+"14 Levontin street, Apartment 2, 6511203 Tel Aviv, Israel",,IL,6511203,,il,6511604,,il,
+"Av carrilet 232 5-1, Apt, 08901 Barcelona, Barcelona, Spain",B,ES,08901,,es,8901,CT,es,08901
+"7, rue Danton, 75006 Paris, France",,FR,75006,IDF,fr,75006,IDF,fr,75006
+"trav.montigalà, 58. 2d, 08917 Badalona, Barcelona, Spain",B,ES,08917,,es,08917,,es,08917
+"Březské 23, 59453 Březské, Czechia",,CZ,59453,,cz,594 53,,cz,
+"23 Wesley St, Weymouth, DT4 7DT, United Kingdom",,GB,DT4 7DT,ENG,gb,DT4 7DT,ENG,gb,DT4 7DT
+"2121 W 237th Street, 90501 Torrance, Afghanistan",,AF,90501,,,,,af,
+"42 Amberley Drive, East Sussex, Hove, BN3 8JP, United Kingdom",,GB,BN3 8JP,ENG,gb,BN3 8JP,ENG,gb,BN3 8JP
+"7 rue de l'aviateur martel, Apt 21, 77600 Bussy Saint Georges, France",,FR,77600,IDF,fr,77600,IDF,fr,77600
+"Rua Vale dos Choupos, N.8, 2925-303 Brejos de Azeitao, Setúbal, Portugal",PT-15,PT,2925-303,,pt,2925-555,,pt,
+"15 Pebblewood Street, McKinley Village, 1630 Taguig, 00, Philippines",PH-00,PH,1630,,ph,1634,,ph,
+"Sderot ezel 49/23, 7845830 Ashqelon, Israel",,IL,7845830,HD,il,,,il,
+"Uellendahler Strasse 123, 42109 Wuppertal, Germany",,DE,42109,NW,de,42109,NW,de,42109
+"14 avenida 5-55 zona 3, Quetzaltenango QZ, 09001, Guatemala",QUE,GT,09001,QZ,gt,09001,QZ,gt,09001
+"12 Edgehill Close, Leicester, LE8 9FY, United Kingdom",,GB,LE8 9FY,ENG,gb,LE8 9FY,ENG,gb,LE8 9FY
+"38 Robert Lowe Close, London, SE14 5QB, United Kingdom",,GB,SE14 5QB,ENG,gb,SE14 5QB,ENG,gb,SE14 5QB
+"North West Provincial Legislature, 1768, Motlhamme Crescent, Unit 8, Mmabatho, North West, 2739, South Africa",NW,ZA,2739,NW,za,,,za,2739
+"Battenhaus 1617, 9052 Niederteufen, Switzerland",,CH,9052,AR,ch,9052,AR,ch,9062
+"Residence Badiane, Appt 1201 Borel, 97129 LAMENTIN, Guadeloupe",,GP,97129,GP,fr,97129,GP,gp,97129
+"Madinate illam, muscat, House no. 1177 way no. 1518, 112, Muscat, Oman",,OM,112,,om,,,om,
+"1 Maison De La Mare, Grand Vaux, St Helier, JE24NT, United Kingdom",,GB,JE24NT,,je,,,,
+"Ulica Viktora Kovacica 34, 10000 Zagreb, Croatia",,HR,10000,,hr,10146,,hr,10146
+"None, Villabañez, 19, BJ D, 47004 Valladolid, Valladolid, Spain",VA,ES,47004,,es,47012,,es,47004
+"Moneyquid, Killeigh, Tullamore, Offaly, R35YOO4, Ireland",OY,IE,R35YOO4,,ie,,L,ie,
+"36, Bowness drive, Hounslow, TW4 7BL, United Kingdom",,GB,TW4 7BL,ENG,gb,TW4 7BL,ENG,gb,TW4 7BL
+"58 Broadway, Northampton, NN14SQ, United Kingdom",,GB,NN14SQ,ENG,gb,NN1 4SQ,ENG,gb,NN1 4SQ
+"Brandjochblick 5, 6176 Völs, Austria",,AT,6176,,at,6176,7,at,6176
+"Fuente de San Pedro #64, Fraccionamiento las fuentes, 76650 Ezequiel Montes Querétaro QUE, Mexico",QRO,MX,76650,QUE,mx,76650,,mx,
+"Salsala, 11/1, 6817288 Tel-Aviv Yafo, Israel",,IL,6817288,,il,6803608,,il,6803608
+"Habyt Zelda 1, Zeitzer Strasse 5, 12055 Berlin, Germany",,DE,12055,,de,12055,,de,12055
+"113 5th St E, 33715 Tierra Verde, Afghanistan",,AF,33715,KB,af,,,af,
+"Flat 24 Heathview, Gordon House Road, LONDON, NW5 1LR, United Kingdom",,GB,NW5 1LR,ENG,gb,NW5 1LR,ENG,gb,NW5 1LR
+"Fabersvej 34A, St. Tv., 8900 Randers, Denmark",,DK,8900,,dk,8900,,dk,8900
+"North al Yahar, al Ain, Street#1, villa:51, Al Ain AZ, United Arab Emirates",AZ,AE,16208,AZ,ae,,,,
+"Pachtgoed 13, 9080 Zaffelare, Belgium",,BE,9080,,be,9080,VOV,be,9080
+"21 Mainway, Manchester, M24 1LE, United Kingdom",,GB,M24 1LE,ENG,gb,M24 1LE,ENG,gb,M24 1LE
+"Simtat galili, 8, 1200000 Rosh pinna, Israel",,IL,1200000,,il,,,il,
+"Luzernstrasse 36b, 6208 Oberkirch, Switzerland",,CH,6208,,ch,6208,LU,ch,6208
+"Solventilsgatan 11, 602, 417 23 Gothenburg, Sweden",,SE,417 23,,se,417 24,,se,417 06
+"6285 Al Qama Street, ishbiliah, Riyadh 11564, Saudi Arabia",,SA,11564,,sa,13316,,sa,
+"Analipseos, 69, 54644 Thessaloniki, Greece",,GR,54644,,gr,546 44,,gr,
+"Brueckenaeckerweg 18, 76229 Karlsruhe, Germany",,DE,76229,BW,de,76229,BW,de,76229
+"Marriott, 300 s mulberry street, 28021 Cherryville, Afghanistan",,AF,28021,,,,,af,
+"Almog 8, 3901129 Tirat carmel, Israel",,IL,3901129,,il,3955022,,il,
+"Rua da Jouriça 14 1º-Direito, Apt, 2500-432 Caldas da Rainha, Leiria, Portugal",PT-10,PT,2500-432,,pt,2500-816,,pt,
+"32 Childwall Park Avenue, Liverpool, L16 0JG, United Kingdom",,GB,L16 0JG,ENG,gb,L16 0JG,ENG,gb,L16 0JG
+"Rua das paponas, 34, 2005 393 Vale de santarém, Santarém, Portugal",PT-14,PT,2005 393,,pt,,,pt,
+"5 Kelbrook Close, KELLBROOK CLOSE, ST. HELENS, WA9 3WR, United Kingdom",,GB,WA9 3WR,ENG,gb,WA9 3WR,ENG,gb,WA9 3WR
+"Shderot Chen 36, 5, 7646922 Rehovot, Israel",,IL,7646922,HM,il,,,il,
+"Hahagana 49, 6, 4635610 Hertzliya, Israel",,IL,4635610,TA,il,5225517,,il,
+"Zilverschoonstraat, 19B, 3053HX Rotterdam, Netherlands",,NL,3053HX,ZH,nl,3053 HX,ZH,nl,3053 HX
+"Mitterhofergasse 2, 2/1/7, 1210 Vienna, Austria",,AT,1210,,at,1210,3,at,1210
+"Via Paolo Borsellino 123, 80025 Casandrino NA, Italy",,IT,80025,CAM,it,80025,CAM,it,80125
+"Glebe Cottage, Church Street, Tarvin, CH3 8EB, United Kingdom",,GB,CH3 8EB,ENG,gb,CH3 8EB,ENG,gb,CH3 8EB
+"#203 Glory Yamate 14-5 Yamate-cho, Sasebo-shi, Nagasaki, Japan, 〒857-0022",JP-42,JP,857-0022,NS,jp,,,jp,
+"14 Walter Dyer Drive, Fern Hill Gardens, Faringdon, SN7 7NH, United Kingdom",,GB,SN7 7NH,ENG,gb,SN7 7NH,ENG,gb,SN7 7NH
+"9 Corfe Place, Maidenhead, SL6 6TL, United Kingdom",,GB,SL6 6TL,ENG,gb,SL6 6TL,ENG,gb,SL6 6TL
+"6831 Neptune place, 92037 La Jolla, Afghanistan",,AF,92037,,,,,af,
+"Sejerskovvej 21, 1.th., 5260 Odense S, Denmark",,DK,5260,,dk,5260,,dk,5260
+"7130 harrow street, 11375 Forest hills, Afghanistan",,AF,11375,,,,,af,
+"Ceresvej 5b, 103, 3900 Nuuk, Greenland",,GL,3900,,gl,3900,,gl,3900
+"268 Queens Rd. Central, Flat 1G, Tower A, Hollwood Terrace,, Sheung Wan, Hong Kong Island Hong Kong SAR",HK,HK,12345,,hk,,,,
+"rimon 230, 0079315 Telamim, Israel",,IL,0079315,,il,,,il,
+"Ma'apile egoz 86, Entrance A, floor 4, apartment 7, 6743044 Tel Aviv, Israel",,IL,6743044,,il,6767589,,il,
+"Hashomron 11, 609200 kadima, Israel",,IL,609200,,il,4282300,,il,
+"14 Levontin street, Apartment 2, 6511203 Tel Aviv, Israel",,IL,6511203,,il,6511604,,il,
+"9 rue Pierre Barnoud, 69170 Tarare, France",,FR,69170,AR,fr,69170,ARA,fr,69170
+"Sonnenweg 3, 8807 Freienbach, Switzerland",,CH,8807,SZ,ch,8808,SZ,ch,8808
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"7470, 16th street Abdullah Fuad, 54, Dammam 32236, Saudi Arabia",,SA,32236,,sa,32242,,sa,
+"Roodborstlaan 30, 2623HB Delft, Netherlands",,NL,2623HB,ZH,nl,2623 HB,ZH,nl,2623 HB
+"Dr. Ingridsvej 14, 201, 3900 Nuuk, Greenland",,GL,3900,,gl,3900,,gl,3900
+"Cäcilienstrasse 17, 3007 Bern, Switzerland",,CH,3007,BE,ch,3007,BE,ch,3007
+"Battenhaus 1617, 9052 Niederteufen, Switzerland",,CH,9052,AR,ch,9052,AR,ch,9062
+"Rua Vale dos Choupos, N.8, 2925-303 Brejos de Azeitao, Setúbal, Portugal",PT-15,PT,2925-303,,pt,2925-555,,pt,
+"Sderot ezel 49/23, 7845830 Ashqelon, Israel",,IL,7845830,HD,il,,,il,
+"Residence Badiane, Appt 1201 Borel, 97129 LAMENTIN, Guadeloupe",,GP,97129,GP,fr,97129,GP,gp,97129
+"Uellendahler Strasse 123, 42109 Wuppertal, Germany",,DE,42109,NW,de,42109,NW,de,42109
+"14 avenida 5-55 zona 3, Quetzaltenango QZ, 09001, Guatemala",QUE,GT,09001,QZ,gt,09001,QZ,gt,09001
+"Fuente de San Pedro #64, Fraccionamiento las fuentes, 76650 Ezequiel Montes Querétaro QUE, Mexico",QRO,MX,76650,QUE,mx,76650,,mx,
+"Ulica Viktora Kovacica 34, 10000 Zagreb, Croatia",,HR,10000,,hr,10146,,hr,10146
+"Salsala, 11/1, 6817288 Tel-Aviv Yafo, Israel",,IL,6817288,,il,6803608,,il,6803608
+"113 5th St E, 33715 Tierra Verde, Afghanistan",,AF,33715,KB,af,,,af,
+"Brandjochblick 5, 6176 Völs, Austria",,AT,6176,,at,6176,7,at,6176
+"1008 summer placItoro, 30071 Norcross, Afghanistan",,AF,30071,,,,,af,
+"North al Yahar, al Ain, Street#1, villa:51, Al Ain AZ, United Arab Emirates",AZ,AE,16208,AZ,ae,,,,
+"Pachtgoed 13, 9080 Zaffelare, Belgium",,BE,9080,,be,9080,VOV,be,9080
+"Simtat galili, 8, 1200000 Rosh pinna, Israel",,IL,1200000,,il,,,il,
+"Carl bertheussens veg 29a, 9020 Tromsø, Norway",,NO,9020,,no,9020,,no,9020
+"Luzernstrasse 36b, 6208 Oberkirch, Switzerland",,CH,6208,,ch,6208,LU,ch,6208
+"6285 Al Qama Street, ishbiliah, Riyadh 11564, Saudi Arabia",,SA,11564,,sa,13316,,sa,
+"Analipseos, 69, 54644 Thessaloniki, Greece",,GR,54644,,gr,546 44,,gr,
+"Rua da Jouriça 14 1º-Direito, Apt, 2500-432 Caldas da Rainha, Leiria, Portugal",PT-10,PT,2500-432,,pt,2500-816,,pt,
+"32 Childwall Park Avenue, Liverpool, L16 0JG, United Kingdom",,GB,L16 0JG,ENG,gb,L16 0JG,ENG,gb,L16 0JG
+"Almog 8, 3901129 Tirat carmel, Israel",,IL,3901129,,il,3955022,,il,
+"126 Cedar Woods Trl, 30114 Canton, Georgia",,GE,30114,GA,us,30114,GA,us,
+"Zilverschoonstraat, 19B, 3053HX Rotterdam, Netherlands",,NL,3053HX,ZH,nl,3053 HX,ZH,nl,3053 HX
+"Shderot Chen 36, 5, 7646922 Rehovot, Israel",,IL,7646922,HM,il,,,il,
+"Hahagana 49, 6, 4635610 Hertzliya, Israel",,IL,4635610,TA,il,5225517,,il,
+"Via Paolo Borsellino 123, 80025 Casandrino NA, Italy",,IT,80025,CAM,it,80025,CAM,it,80125
+"Glebe Cottage, Church Street, Tarvin, CH3 8EB, United Kingdom",,GB,CH3 8EB,ENG,gb,CH3 8EB,ENG,gb,CH3 8EB
+"5 Kelbrook Close, KELLBROOK CLOSE, ST. HELENS, WA9 3WR, United Kingdom",,GB,WA9 3WR,ENG,gb,WA9 3WR,ENG,gb,WA9 3WR
+"Ceresvej 5b, 103, 3900 Nuuk, Greenland",,GL,3900,,gl,3900,,gl,3900
+"Březské 23, 59453 Březské, Czechia",,CZ,59453,,cz,594 53,,cz,
+"7470, 16th street Abdullah Fuad, 54, Dammam 32236, Saudi Arabia",,SA,32236,,sa,32242,,sa,
+"Roodborstlaan 30, 2623HB Delft, Netherlands",,NL,2623HB,ZH,nl,2623 HB,ZH,nl,2623 HB
+"Ma'apile egoz 86, Entrance A, floor 4, apartment 7, 6743044 Tel Aviv, Israel",,IL,6743044,,il,6767589,,il,
+"Hashomron 11, 609200 kadima, Israel",,IL,609200,,il,4282300,,il,
+"Sonnenweg 3, 8807 Freienbach, Switzerland",,CH,8807,SZ,ch,8808,SZ,ch,8808
+"Battenhaus 1617, 9052 Niederteufen, Switzerland",,CH,9052,AR,ch,9052,AR,ch,9062
+"Uellendahler Strasse 123, 42109 Wuppertal, Germany",,DE,42109,NW,de,42109,NW,de,42109
+"Rua Vale dos Choupos, N.8, 2925-303 Brejos de Azeitao, Setúbal, Portugal",PT-15,PT,2925-303,,pt,2925-555,,pt,
+"14 avenida 5-55 zona 3, Quetzaltenango QZ, 09001, Guatemala",QUE,GT,09001,QZ,gt,09001,QZ,gt,09001
+"11821 sw 196 ter, 33177 Miami, Afghanistan",,AF,33177,,,,,af,
+"Residence Badiane, Appt 1201 Borel, 97129 LAMENTIN, Guadeloupe",,GP,97129,GP,fr,97129,GP,gp,97129
+"42 Amberley Drive, East Sussex, Hove, BN3 8JP, United Kingdom",,GB,BN3 8JP,ENG,gb,BN3 8JP,ENG,gb,BN3 8JP
+"Cäcilienstrasse 17, 3007 Bern, Switzerland",,CH,3007,BE,ch,3007,BE,ch,3007
+"113 5th St E, 33715 Tierra Verde, Afghanistan",,AF,33715,KB,af,,,af,
+"3509 Burr dr, Edinburg Texas, Central African Republic",,CF,78542,,,,,cf,
+"1 Maison De La Mare, Grand Vaux, St Helier, JE24NT, United Kingdom",,GB,JE24NT,,je,,,,
+"Brandjochblick 5, 6176 Völs, Austria",,AT,6176,,at,6176,7,at,6176
+"3000 Indian Oaks Drive, 95648 Lincoln, Afghanistan",,AF,95648,,,,,af,
+"Salsala, 11/1, 6817288 Tel-Aviv Yafo, Israel",,IL,6817288,,il,6803608,,il,6803608
+"21 Mainway, Manchester, M24 1LE, United Kingdom",,GB,M24 1LE,ENG,gb,M24 1LE,ENG,gb,M24 1LE
+"Simtat galili, 8, 1200000 Rosh pinna, Israel",,IL,1200000,,il,,,il,
+"Luzernstrasse 36b, 6208 Oberkirch, Switzerland",,CH,6208,,ch,6208,LU,ch,6208
+"Solventilsgatan 11, 602, 417 23 Gothenburg, Sweden",,SE,417 23,,se,417 24,,se,417 06
+"801029145060, 23 jalan kristal 7/73, seksyen 7, Seksyen 23, Shah Alam, 40000 Shah Alam, Selangor, Malaysia",SGR,MY,40000,SGR,my,40000,SGR,my,41150
+"Analipseos, 69, 54644 Thessaloniki, Greece",,GR,54644,,gr,546 44,,gr,
+"32 Childwall Park Avenue, Liverpool, L16 0JG, United Kingdom",,GB,L16 0JG,ENG,gb,L16 0JG,ENG,gb,L16 0JG
+"Almog 8, 3901129 Tirat carmel, Israel",,IL,3901129,,il,3955022,,il,
+"Zilverschoonstraat, 19B, 3053HX Rotterdam, Netherlands",,NL,3053HX,ZH,nl,3053 HX,ZH,nl,3053 HX
+"Shderot Chen 36, 5, 7646922 Rehovot, Israel",,IL,7646922,HM,il,,,il,
+"Hahagana 49, 6, 4635610 Hertzliya, Israel",,IL,4635610,TA,il,5225517,,il,
+"Via Paolo Borsellino 123, 80025 Casandrino NA, Italy",,IT,80025,CAM,it,80025,CAM,it,80125
+"Glebe Cottage, Church Street, Tarvin, CH3 8EB, United Kingdom",,GB,CH3 8EB,ENG,gb,CH3 8EB,ENG,gb,CH3 8EB
+"#203 Glory Yamate 14-5 Yamate-cho, Sasebo-shi, Nagasaki, Japan, 〒857-0022",JP-42,JP,857-0022,NS,jp,,,jp,
+"1147 S 18th St, 19146 PHILADELPHIA, Afghanistan",,AF,19146,,,,,af,
+"Březské 23, 59453 Březské, Czechia",,CZ,59453,,cz,594 53,,cz,
+"Ceresvej 5b, 103, 3900 Nuuk, Greenland",,GL,3900,,gl,3900,,gl,3900
+"7130 harrow street, 11375 Forest hills, Afghanistan",,AF,11375,,,,,af,
+"268 Queens Rd. Central, Flat 1G, Tower A, Hollwood Terrace,, Sheung Wan, Hong Kong Island Hong Kong SAR",HK,HK,12345,,hk,,,,
+"7470, 16th street Abdullah Fuad, 54, Dammam 32236, Saudi Arabia",,SA,32236,,sa,32242,,sa,
+"Sonnenweg 3, 8807 Freienbach, Switzerland",,CH,8807,SZ,ch,8808,SZ,ch,8808
+"Hashomron 11, 609200 kadima, Israel",,IL,609200,,il,4282300,,il,
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"3000 Indian Oaks Drive, 95648 Lincoln, Afghanistan",,AF,95648,,,,,af,
+"11821 sw 196 ter, 33177 Miami, Afghanistan",,AF,33177,,,,,af,
+"42 Amberley Drive, East Sussex, Hove, BN3 8JP, United Kingdom",,GB,BN3 8JP,ENG,gb,BN3 8JP,ENG,gb,BN3 8JP
+"Fabersvej 34A, St. Tv., 8900 Randers, Denmark",,DK,8900,,dk,8900,,dk,8900
+"Solventilsgatan 11, 602, 417 23 Gothenburg, Sweden",,SE,417 23,,se,417 24,,se,417 06
+"#203 Glory Yamate 14-5 Yamate-cho, Sasebo-shi, Nagasaki, Japan, 〒857-0022",JP-42,JP,857-0022,NS,jp,,,jp,
+"268 Queens Rd. Central, Flat 1G, Tower A, Hollwood Terrace,, Sheung Wan, Hong Kong Island Hong Kong SAR",HK,HK,12345,,hk,,,,
+"c/o Tanari, 46 route de Valavran, 1293 Bellevue, Switzerland",,CH,1293,,ch,1293,GE,ch,1293
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"11821 sw 196 ter, 33177 Miami, Afghanistan",,AF,33177,,,,,af,
+"Sejerskovvej 21, 1.th., 5260 Odense S, Denmark",,DK,5260,,dk,5260,,dk,5260
+"c/o Tanari, 46 route de Valavran, 1293 Bellevue, Switzerland",,CH,1293,,ch,1293,GE,ch,1293
+"268 Queens Rd. Central, Flat 1G, Tower A, Hollwood Terrace,, Sheung Wan, Hong Kong Island Hong Kong SAR",HK,HK,12345,,hk,,,,
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"11821 sw 196 ter, 33177 Miami, Afghanistan",,AF,33177,,,,,af,
+"3000 Indian Oaks Drive, 95648 Lincoln, Afghanistan",,AF,95648,,,,,af,
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"c/o Tanari, 46 route de Valavran, 1293 Bellevue, Switzerland",,CH,1293,,ch,1293,GE,ch,1293
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"Via della fornace 26, 50125 Italy FI, Italy",FI,IT,50125,,it,50014,,it,50125
+"dhaka, gg, dhaka 05499, Pakistan",,PK,05499,PB,pk,05499,PB,pk,
